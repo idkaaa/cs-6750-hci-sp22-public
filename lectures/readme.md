@@ -5,12 +5,12 @@
   - [Original Text file](./original-source-files/LessonTranscipts.txt)
   - Source: https://edstem.org/us/courses/16797/discussion/1194461
 
-## [Lesson 1](./1/)
+## [Lesson 1 Introduction to HCI](./1/)
 
-## [Lesson 2](./2/)
+## [Lesson 2 Principles](./2/)
 
-## [Lesson 3](./3/)
+## [Lesson 3 Methods](./3/)
 
-## [Lesson 4](./4/)
+## [Lesson 4 Applications](./4/)
 
 ## [Lesson 5](./5/)

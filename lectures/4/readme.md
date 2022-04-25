@@ -1,4 +1,4 @@
-# Lesson 4
+# Lesson 4 Applications
 
 [Original source file](../original-source-files/4.x.md)
 
