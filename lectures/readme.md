@@ -2,6 +2,7 @@
 
 - Semester: Spring 2022
 - Many Thanks to Mr. Griswold for providing the original files.
+  - [Original Text file](./original-source-files/LessonTranscipts.txt)
   - Source: https://edstem.org/us/courses/16797/discussion/1194461
 
 ## [Lesson 1](./1/)
