@@ -1,6 +1,6 @@
 # Lesson 2 Principles
 
-[Original source file](../original-source-files/2.x.md)
+## [Raw 2.x Markdown File](../original-source-files/2.x.md)
 
 - [2.2 Feedback Cycles](02/2.2.md)
 - [2.5 Design Principles and Heuristics](05/2.5.md)

@@ -1,6 +1,6 @@
 # Lesson 3 Methods
 
-[Original source file](../original-source-files/3.x.md)
+## [Raw 3.x Markdown File](../original-source-files/3.x.md)
 
 - [3.3 Needfinding and Requirements Gathering](03/3.3.md)
 - [3.6 Evaluation](06/3.6.md)
