@@ -1,0 +1,13 @@
+@startuml
+
+object v1
+object v2
+object v3
+
+package effects {
+    map main {
+        v1 -- v1
+    }
+}
+
+@enduml

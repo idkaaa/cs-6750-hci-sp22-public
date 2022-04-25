@@ -1,0 +1,3 @@
+[submodule "tools/jdf"]
+	path = tools/jdf
+	url = https://github.com/iamjakewarner/jdf.git
