@@ -1,5 +1,5 @@
 # CS6750 Human-Computer Interaction Lesson Transcripts
-
+- [Source Repo](https://github.com/idkaaa/cs-6750-hci-sp22-public)
 - Semester: Spring 2022
 - Many Thanks to Mr. Griswold for providing the original files.
   - [Original Text file](./original-source-files/LessonTranscipts.txt)
