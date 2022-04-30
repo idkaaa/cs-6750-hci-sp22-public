@@ -1,0 +1,15 @@
+# Lessons for Part 2 of CS6750
+
+- [2.7 - Task Analysis](2/07/2.7.md)
+- [2.8 - Distributed Cognition](2/08/2.8.md)
+- [3.6 - Evaluation](3/06/3.6.md)
+- [2.9 - Interfaces and Politics](2/09/2.9.md)
+- [2.10 - Conclusion to Principles](2/10/2.10.md)
+- [3.7 - HCI and Agile Development](3/07/3.7.md)
+- [3.8 - Conclusion to Methods](3/08/3.8.md)
+- [4.1 - Technologies](4/01/4.1.md)
+- [4.2 - Ideas](4/02/4.2.md)
+- [4.3 - Domains](4/03/4.3.md)
+- [5.1 - Course Recap](5/01/5.1.md)
+- [5.2 - Related Fields](5/02/5.2.md)
+- [5.3 - Next Steps](5/03/5.3.md)
