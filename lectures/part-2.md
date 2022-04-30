@@ -1,6 +1,10 @@
 # Lessons for Part 2 of CS6750
 
 - [2.7 - Task Analysis](2/07/2.7.md)
+  - [2.7.7 - 5 Tips: Developing GOMS Models](2/07/2.7.md#277---5-tips-developing-goms-models)
+  - [2.7.5 - Strengths and Weaknesses of GOMS](2/07/2.7.md#275---strengths-and-weaknesses-of-goms)
+  - [2.7.8 - GOMS to Cognitive Task Analysis](2/07/2.7.md#278---goms-to-cognitive-task-analysis)
+  - [2.7.13 - Cognitive Task Analysis Strengths and Weaknesses](2/07/2.7.md#2713---cognitive-task-analysis-strengths-and-weaknesses)
 - [2.8 - Distributed Cognition](2/08/2.8.md)
 - [3.6 - Evaluation](3/06/3.6.md)
 - [2.9 - Interfaces and Politics](2/09/2.9.md)
