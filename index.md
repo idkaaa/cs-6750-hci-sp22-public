@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # cs-6750-hci-sp22-public
 
 Source Repo: [https://github.com/idkaaa/cs-6750-hci-sp22-public/](https://github.com/idkaaa/cs-6750-hci-sp22-public/)

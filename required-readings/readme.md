@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Required Readings for CS6750 Spring 2022 - Home
-breadcrumb: Required Readings for CS6750 Spring 2022
+title: Required Readings Main
 ---
 
 # Required Readings for CS6750 Spring 2022

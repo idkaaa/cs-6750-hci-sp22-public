@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Test 1 Required Readings for CS6750 Spring 2022 - Home
-breadcrumb: Test 1 Required Readings for CS6750 Spring 2022
+title: Required Readings for Test 1
 ---
 
 # Test 1
