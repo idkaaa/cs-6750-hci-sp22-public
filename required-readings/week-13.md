@@ -73,3 +73,46 @@ Topic: the intersection of interface design and learning design.
 - Two design paradigms support
   - immediate interaction
   - long-term learning gains
+
+![](assets/20220501124953.png)
+
+- Case study on a grad class at major public University (OMSCS?)
+
+  - MOOC-based (Online Master of Science in Computer Science)
+  - Focus on high-level design
+    - transfer of principles of HCI into realm of learning design
+      - as much as online can
+    - Four design principles
+      - flexibility
+        - geographic
+        - temporal
+        - preference
+      - equity
+        - through flexibility (more students can enter program)
+        - through admissions (more capacity, less competition)
+        - through anonyminity (less identity, gender, race discrimination)
+      - consistency
+        - assignment cadence (each week assignments due)
+        - announcement cadence (bi-weekly threads (monday, friday) replicates teacher walking in on monday morning)
+        - administrative decisions (smallest unit of time is 1 week, no in-between week deadlines except for peer review; anywhere on earth time)
+      - distributed cognition
+        - offloading through announcements (splits up student cognitive load into smaller threads and chunks; converts the online "pull" system into an in-person "push" event system)
+        - offloading through documentation (student to student forum posts; rely on documentation and students to argue about it amongst themselves (RTFM))
+        - offloading through assessment design (open-book tests designed for rapid question solving; encourage note organization)
+    - Other principles
+      - Structure (pre-recorded videos afford visible structure; students can consume content around the actual structure of the content)
+      - Perceptability (students can see their current grades for immediate perceptibility of the state of their status in the class)
+      - Tolerance (Two-hour grace window for assignments for admin and student mistakes; grade for navigating submission ui or time zone conversion error)
+      - Feedback
+        - scale of course dictates heavy organization; Assembly line approach for assignments and grading workflows; Batch processing.
+        - Incentives for rapid peer feedback
+          - 58% peer reviews submitted within 3 days; 69% within one week.
+
+  ![](assets/20220501131404.png)
+  ![](assets/20220501131532.png)
+
+  - Course Evaluation (surveys)
+    - online students have higher standards than in-class counterparts
+  - Survey types
+  - Institutional (institute makes questions; apply to all courses)
+  - Course (class-specific questions)
