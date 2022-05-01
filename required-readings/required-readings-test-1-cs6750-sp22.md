@@ -1,53 +1,6 @@
-[![OMS
-CS6750](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1579,h_361/http://omscs6750.gatech.edu/b/wp-content/uploads/2017/05/newlogo.png)](https://omscs6750.gatech.edu/)
+# Test 1
 
-- <span id="menu-item-47">[Home](https://omscs6750.gatech.edu/)</span>
-- <span id="menu-item-1823">[Current
-  Semester](https://omscs6750.gatech.edu/spring-2022/)</span>
-
-Select Page
-
-# Required Reading List (Spring 2022)
-
-This class has two reading lists: a list of required readings, and a
-list of recommended readings. The required readings will be useful to
-your assignments and projects, and will also be tested more explicitly
-on the two course tests. The recommended readings are more generally
-foundational books, papers, and courses on HCI in general.
-
-## Required Reading List
-
-On average, you can expect to spend 1 to 2 hours reading per week. The
-topics of these papers fall into two categories: some are thorough,
-retrospective overviews of decades of HCI research; some are
-foundational, seminal works in the field of HCI; and some are
-cutting-edge research from the most recent HCI-related conferences and
-journals.
-
-The information contained in these readings will be useful as you
-complete your assignments and projects, but it will also be tested
-explicitly on the course tests. Ten questions on each test will be based
-on these readings. From the perspective of the test, your emphasis in
-reading these papers should be in getting a sufficient understanding of
-the material to answer high-level questions about the paper, as well as
-to be able to find answers quickly for more specific questions.
-
-Note that the weeks in this list represent the week of content most
-relevant to the listed readings. However, we know that there will be
-weeks when you are busier than others, and you may not be able to
-complete a week’s readings during that particular week. The only
-assessments dependent on having completed these readings are the tests,
-so you need only worry about completing the readings by the date of the
-next test.
-
-We recommend reading [How to Read an Academic
-Paper](http://omscs6460.gatech.edu/research-guide/how-to-read-an-academic-paper/)
-from CS6460 to better understand how to fit some of these readings into
-our estimated 1-2 hours per week.
-
-## Test 1
-
-### Week 1: Foundations of HCI
+## Week 1: Foundations of HCI
 
 - MacKenzie, I.S. (2013). [Chapter 1: Historical
   Context](https://gatech.instructure.com/courses/234504/files/folder/Required%20Readings).
@@ -58,7 +11,7 @@ our estimated 1-2 hours per week.
   In _The Design of Everyday Things: Revised and Expanded Edition_.
   (pp. 1-36). Arizona: Basic Books.
 
-### Week 2: Principles and Feedback Cycles
+## Week 2: Principles and Feedback Cycles
 
 - Norman, D. A. (1986). [Cognitive
   engineering](https://www.semanticscholar.org/paper/Cognitive-Engineering-Ananthasayanam/57f176992f92ae559d9c110211d7f04c5143cb44).
@@ -70,7 +23,7 @@ our estimated 1-2 hours per week.
   In _The Design of Everyday Things: Revised and Expanded Edition_.
   (pp. 37-73). Arizona: Basic Books.
 
-### Week 3: Research Ethics and Needfinding
+## Week 3: Research Ethics and Needfinding
 
 - MacKenzie, I.S. (2013). [Chapter 4: Scientific
   Foundations](https://gatech.instructure.com/courses/234504/files/folder/Required%20Readings).
@@ -82,7 +35,7 @@ our estimated 1-2 hours per week.
   In J. Olson & W. Kellogg (Eds.) _Ways of Knowing in HCI_ (pp.
   229-266). New York: Springer.
 
-### Week 4: Invisible Interfaces and Human Abilities
+## Week 4: Invisible Interfaces and Human Abilities
 
 - MacKenzie, I.S. (2013). [Chapter 2: The Human
   Factor](https://gatech.instructure.com/courses/234504/files/folder/Required%20Readings).
@@ -93,7 +46,7 @@ our estimated 1-2 hours per week.
   interfaces](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.122.4927&rep=rep1&type=pdf).
   _Human–Computer Interaction_, _1_(4), 311-338.
 
-### Week 5: Design Alternatives
+## Week 5: Design Alternatives
 
 - Faste, H., Rachmel, N., Essary, R., & Sheehan, E. (2013, April).
   [Brainstorm, Chainstorm, Cheatstorm, Tweetstorm: new ideation
@@ -111,7 +64,7 @@ our estimated 1-2 hours per week.
   In _Interaction Design: Beyond Human-Computer Interaction_. John
   Wiley & Sons.
 
-### Week 6: Mental Models and Representations
+## Week 6: Mental Models and Representations
 
 - MacKenzie, I.S. (2013). [Section 3.4: Mental Models &
   Metaphor](https://gatech.instructure.com/courses/234504/files/folder/Required%20Readings).

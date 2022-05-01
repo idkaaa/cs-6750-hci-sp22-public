@@ -1,53 +1,6 @@
-[![OMS
-CS6750](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1579,h_361/http://omscs6750.gatech.edu/b/wp-content/uploads/2017/05/newlogo.png)](https://omscs6750.gatech.edu/)
+# Test 2
 
-- <span id="menu-item-47">[Home](https://omscs6750.gatech.edu/)</span>
-- <span id="menu-item-1823">[Current
-  Semester](https://omscs6750.gatech.edu/spring-2022/)</span>
-
-Select Page
-
-# Required Reading List (Spring 2022)
-
-This class has two reading lists: a list of required readings, and a
-list of recommended readings. The required readings will be useful to
-your assignments and projects, and will also be tested more explicitly
-on the two course tests. The recommended readings are more generally
-foundational books, papers, and courses on HCI in general.
-
-## Required Reading List
-
-On average, you can expect to spend 1 to 2 hours reading per week. The
-topics of these papers fall into two categories: some are thorough,
-retrospective overviews of decades of HCI research; some are
-foundational, seminal works in the field of HCI; and some are
-cutting-edge research from the most recent HCI-related conferences and
-journals.
-
-The information contained in these readings will be useful as you
-complete your assignments and projects, but it will also be tested
-explicitly on the course tests. Ten questions on each test will be based
-on these readings. From the perspective of the test, your emphasis in
-reading these papers should be in getting a sufficient understanding of
-the material to answer high-level questions about the paper, as well as
-to be able to find answers quickly for more specific questions.
-
-Note that the weeks in this list represent the week of content most
-relevant to the listed readings. However, we know that there will be
-weeks when you are busier than others, and you may not be able to
-complete a week’s readings during that particular week. The only
-assessments dependent on having completed these readings are the tests,
-so you need only worry about completing the readings by the date of the
-next test.
-
-We recommend reading [How to Read an Academic
-Paper](http://omscs6460.gatech.edu/research-guide/how-to-read-an-academic-paper/)
-from CS6460 to better understand how to fit some of these readings into
-our estimated 1-2 hours per week.
-
-## Test 2
-
-### Week 7: Prototyping
+## Week 7: Prototyping
 
 1. Houde, S., & Hill, C. (1997). [What do prototypes
    prototype?](http://www.itu.dk/people/malmborg/Interaktionsdesign/Kompendie/Houde-Hill-1997.pdf)
@@ -57,7 +10,7 @@ our estimated 1-2 hours per week.
    techniques](https://www.lri.fr/~mackay/pdffiles/Prototype.chapter.pdf).
    _Human Computer Interaction-Development Process._ (pp. 101-142).
 
-### Week 8: Context and Distributed Cognition
+## Week 8: Context and Distributed Cognition
 
 1. Hutchins, E. (1995). [How a cockpit remembers its
    speeds](http://www.it.uu.se/grad/courses/qualresearch/teachingplan/hutchins.pdf).
@@ -68,7 +21,7 @@ our estimated 1-2 hours per week.
 1. In B. Nardi (Ed.) _Context and Consciousness: Activity Theory and
    Human-Computer Interaction_. (pp. 35-52). MIT Press.
 
-### Week 9: Experiments and Evaluation
+## Week 9: Experiments and Evaluation
 
 1. MacKenzie, I.S. (2013). [Chapter 5: Designing HCI
    Experiments](https://gatech.instructure.com/courses/234504/files/folder/Required%20Readings).
@@ -80,7 +33,7 @@ our estimated 1-2 hours per week.
    In _Proceedings of the SIGCHI Conference on Human Factors in
    Computing Systems_ (pp. 249-256). ACM.
 
-### Week 10: Artifacts, Interfaces, and Politics
+## Week 10: Artifacts, Interfaces, and Politics
 
 1. Winner, L. (1980). [Do Artifacts Have
    Politics?](https://www.researchgate.net/profile/Langdon_Winner/publication/213799991_Do_Artifacts_Have_Politics/links/00463537cb2c4e45b8000000/Do-Artifacts-Have-Politics.pdf)
@@ -97,7 +50,7 @@ our estimated 1-2 hours per week.
    Management Information Systems: Foundations._ New York: M.E. Sharpe,
    Inc.
 
-### Week 11: Evaluation and Agile Development
+## Week 11: Evaluation and Agile Development
 
 1. Polson, P. G., Lewis, C., Rieman, J., & Wharton, C. (1992).
    [Cognitive walkthroughs: a method for theory-based evaluation of
@@ -116,7 +69,7 @@ our estimated 1-2 hours per week.
    the 4 International Conference on_ _Extreme Programming and Agile
    Processes in Software Engineering._ (pp. 143-153). Springer.
 
-### Week 12: Best of CHI 2021
+## Week 12: Best of CHI 2021
 
 1. Falk, J., Kannabiran, G., & Hansen, N. B. (2021, May). [What Do
    Hackathons Do? Understanding Participation in Hackathons Through
@@ -160,7 +113,7 @@ our estimated 1-2 hours per week.
    _Proceedings of the 2021 CHI Conference on Human Factors in
    Computing Systems_ (pp. 1-15).
 
-### Week 13: Best of Georgia Tech HCI
+## Week 13: Best of Georgia Tech HCI
 
 1. Liu, Z., Nersessian, N., & Stasko, J. (2008). [Distributed cognition
    as a theoretical framework for information
@@ -206,5 +159,3 @@ our estimated 1-2 hours per week.
    In E. Kapros & M. Koutsombogera (Eds.) _Designing for the User
    Experience in Learning Systems_, Human-Computer Interaction Series.
    Springer.
-
-**END OF MATERIAL FOR TEST 2**
