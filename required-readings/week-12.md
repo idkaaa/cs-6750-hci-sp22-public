@@ -103,10 +103,90 @@
 
 - Langevin, R., Lordon, R. J., Avrahami, T., Cowan, B. R., Hirsch, T., & Hsieh, G. (2021, May). [Heuristic Evaluation of Conversational Agents.](https://dl.acm.org/doi/abs/10.1145/3411764.3445312) In _Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems_.
 
+- Heuristic evaluation type
+- Evaluated metrics for testing robot performance for two interfaces:
+  - chatbot
+  - voice
+- The four phased design process.
+  - Phase 1: Heuristic Generation
+  - Phase 2: Expert Review
+    - ![](assets/20220501120016.png)
+  - Phase 3: Validation through Heuristic Evaluation
+    - The conversational agent heuristics developed in Phase 3
+      - Visibility of system status
+      - Match between system and the real world
+      - User control and freedom
+      - Consistency and standards
+      - Error prevention
+      - Help and guidance
+      - Flexibility and efciency of use
+      - Aesthetic, minimalist and engaging design
+      - Help users recognize, diagnose and recover from errors
+      - Context preservation
+      - Trustworthiness
+  - Phase 4: Validation of Revised Heuristics
+    - ![](assets/20220501120229.png)
+- Better evaluators than Nielsen's.
+  - Identified issues related to
+    - dialog content
+    - interaction design
+    - help and guidace,
+    - human-like cyharacteristics
+    - data privacy
+
 ## “That courage to encourage”: Participation and Aspirations in Chat-based Peer Support for Youth Living with HIV.
 
 - Karusala, N., Seeh, D. O., Mugo, C., Guthrie, B., Moreno, M. A., John-Stewart, G., Inwani, I., Anderson, R. & Ronen, K. (2021, May). [“That courage to encourage”: Participation and Aspirations in Chat-based Peer Support for Youth Living with HIV.](https://dl.acm.org/doi/abs/10.1145/3411764.3445313) In _Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems_.
 
+- Qualitative and Empirical study (Kenya)
+- Stigma with HIV causes privacy issues
+  - phone sharing
+- Data collection: surveys, notes, chat records, and audo recorded interviews.
+- The Rewards and Limitations of Facilitated Peer Support
+  - Exchanging Emotional and Informational Support
+  - Rediscovering Aspirations and Ways to Achieve Them
+  - Feeling the Limitations of Peer Support
+- Problems:
+  - High volume of unstructured data
+  - Chat group can be taken over by non-facilitators
+- Positive Results:
+  - found that aspirations, along with a sense of community, could motivate participants to try to stick with difcult tasks.
+
 ## Designing Interactive Transfer Learning Tools for ML Non-Experts.
 
 - Mishra, S., & Rzeszotarski, J. M. (2021, May). [Designing Interactive Transfer Learning Tools for ML Non-Experts.](https://dl.acm.org/doi/abs/10.1145/3411764.3445096) In _Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems_ (pp. 1-15).
+
+![](assets/20220501121842.png)
+
+- Transfer Learning
+  - Reuse trained ML models (transfer to new application)
+  - Still mostly experts-only
+    - curated (model zoos) domain-specific pre-trained toolkits
+    - lots of subtasks
+      - identify transfer candidates
+      - successful transfer
+      - performance eval
+      - next step identification
+
+![](assets/20220501121924.png)
+
+- Study of non-expert behavior during transfer learning activities
+
+  - focus on convolutional neural nets
+    - identify object boundaries, colors and shapes in an image
+    - transfer those to models
+    - filters exposed as "layer" with features
+      - "layer" would match novice user intuition better
+
+- participants
+
+  - self-selected via:
+    - knowledge of reading and writing about/for a given domain
+    - desire to learn about ML to complete a task (side-benefit)
+
+- Empirical (Qualitative) observations
+
+  - ![](assets/20220501122323.png)
+
+- Conceptual Model
+  - ![](assets/20220501122403.png)
