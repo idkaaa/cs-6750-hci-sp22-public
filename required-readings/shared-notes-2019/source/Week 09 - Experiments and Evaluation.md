@@ -1,10 +1,10 @@
-# Week 9: Experiments and Evaluation
+# Week 9
 
-- [Notes Source](https://github.com/stevenxchung/OMSCS-Notes/tree/master/CS%206750%20-%20HCI/Required%20Reading)
+> Ten questions on each test will be based on these readings. From the perspective of the test, your emphasis in reading these papers should be in getting a sufficient understanding of the material to answer high-level questions about the paper, as well as to be able to find answers quickly for more specific questions.
 
 ## Chapter 5: Designing HCI Experiments
 
-- MacKenzie, I.S. (2013). [Chapter 5: Designing HCI Experiments](https://gatech.instructure.com/courses/234504/files/folder/Required%20Readings). _Human-Computer Interaction: An Empirical Research Perspective_. (pp. 157-188). Waltham, MA: Elsevier.
+> MacKenzie, I.S. (2013). Chapter 5: Designing HCI Experiments. Human-Computer Interaction: An Empirical Research Perspective. (pp. 157-188). Waltham, MA: Elsevier.
 
 Topic: designing HCI experiments.
 
@@ -28,9 +28,9 @@ There are tradeoffs between random and control variables:
 - Within-subjects is also called _repeated measures_, because the measurements on each test condition are repeated for each participant
 - For a between-subjects design, a separate group of participants is used for each test condition
 
-## Heuristic evaluation of user interfaces
+## Heuristic Evaluation Of User Interfaces
 
-- Nielsen, J., & Molich, R. (1990, March). [Heuristic evaluation of user interfaces](https://pdfs.semanticscholar.org/501e/496146b04f42e3e6a49aabd29fb909083007.pdf). In _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_ (pp. 249-256). ACM.
+> Nielsen, J., & Molich, R. (1990, March). Heuristic evaluation of user interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (pp. 249-256). ACM.
 
 Topic: individual evaluators could only identify about 20-50% of usability problems. Aggregated evaluations from several evaluators seem to do better.
 

@@ -1,10 +1,10 @@
-# Week 10: Artifacts, Interfaces, and Politics
+# Week 10
 
-- [Notes Source](https://github.com/stevenxchung/OMSCS-Notes/tree/master/CS%206750%20-%20HCI/Required%20Reading)
+> Ten questions on each test will be based on these readings. From the perspective of the test, your emphasis in reading these papers should be in getting a sufficient understanding of the material to answer high-level questions about the paper, as well as to be able to find answers quickly for more specific questions.
 
-## Do Artifacts Have Politics?
+## Do Artifacts Have Politics
 
-- Winner, L. (1980). [Do Artifacts Have Politics?](https://www.researchgate.net/profile/Langdon_Winner/publication/213799991_Do_Artifacts_Have_Politics/links/00463537cb2c4e45b8000000/Do-Artifacts-Have-Politics.pdf) In _Daedalus 109_(1). (pp. 121-136). MIT Press.
+> Winner, L. (1980). Do Artifacts Have Politics? In Daedalus 109(1). (pp. 121-136). MIT Press.
 
 Topic: the idea that artifacts can have politics.
 
@@ -15,9 +15,9 @@ Two ways that artifacts contain political properties:
 1. Instances in which the invention, design, or arrangement of a specific technical device or system becomes a way of settling an issue in a particular community
 2. Cases of what can be called inherently political technologies, man-made systems that appear to require, or to be strongly compatible with, particular kinds of political relationships
 
-## The “industrial revolution” in the home: Household technology and social change in the 20 century
+## The “Industrial Revolution” In The Home: Household Technology And Social Change In The 20 Century
 
-- Cowan, R. S. (1976). [The “industrial revolution” in the home: Household technology and social change in the 20 century](https://hss.sas.upenn.edu/sites/hss.sas.upenn.edu/files/Industrial%20Revolution%20in%20the%20Home.pdf). _Technology and Culture_ _17_(1)_._ (pp. 1-23). Johns Hopkins University Press.
+> Cowan, R. S. (1976). The “industrial revolution” in the home: Household technology and social change in the 20 century. Technology and Culture 17(1). (pp. 1-23). Johns Hopkins University Press.
 
 Topic: technological revolution in our home and its impact.
 
@@ -28,9 +28,9 @@ Sociological model that predicts changing patterns of household work will be cor
 
 Author hypothesizes that the role of the advertiser is the connecting link between social change and technological change.
 
-## Value Sensitive Design and Information Systems
+## Value Sensitive Design And Information Systems
 
-- Friedman, B., Kahn Jr, P. H., Borning, A., & Huldtgren, A. (2013). [Value Sensitive Design and Information Systems](http://vsdesign.org/publications/pdf/friedman__vsdesignandinfosys.pdf). In P. Zhang & D. Galletta (Eds.) _Human-Computer Interaction in Management Information Systems: Foundations._ New York: M.E. Sharpe, Inc.
+> Friedman, B., Kahn Jr, P. H., Borning, A., & Huldtgren, A. (2013). Value Sensitive Design and Information Systems. In P. Zhang & D. Galletta (Eds.) Human-Computer Interaction in Management Information Systems: Foundations. New York: M.E. Sharpe, Inc.
 
 Topic: introducing value sensitive design and developing the idea through three different studies:
 

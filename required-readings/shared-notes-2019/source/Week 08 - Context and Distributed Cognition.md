@@ -1,10 +1,10 @@
-# Week 8: Context and Distributed Cognition
+# Week 8
 
-- [Notes Source](https://github.com/stevenxchung/OMSCS-Notes/tree/master/CS%206750%20-%20HCI/Required%20Reading)
+> Ten questions on each test will be based on these readings. From the perspective of the test, your emphasis in reading these papers should be in getting a sufficient understanding of the material to answer high-level questions about the paper, as well as to be able to find answers quickly for more specific questions.
 
-## How a cockpit remembers its speeds
+## How A Cockpit Remembers Its Speeds
 
-- Hutchins, E. (1995). [How a cockpit remembers its speeds](http://www.it.uu.se/grad/courses/qualresearch/teachingplan/hutchins.pdf). _Cognitive Science_, _19_(3). (pp. 265-288).
+> Hutchins, E. (1995). How a cockpit remembers its speeds. Cognitive Science, 19(3). (pp. 265-288).
 
 Topic: distributed cognitive system presented as an analysis of a memory task in the cockpit of a commercial airliner.
 
@@ -15,9 +15,9 @@ The cockpit system remembers its speeds, and the memory process emerges
 from the activity of the pilots. The memory of the cockpit, however, is not
 made primarily of pilot memory.
 
-## Studying context: A comparison of activity theory, situated action models and distributed cognition
+## Studying Context: A Comparison Of Activity Theory, Situated Action Models And Distributed Cognition
 
-- Nardi, B. (1992). [Studying context: A comparison of activity theory, situated action models and distributed cognition](http://sonify.psych.gatech.edu/~ben/references/nardi_studying_context_a_comparison_of_activity_theory_situated_action_models_and_distributed_cognition.pdf). In B. Nardi (Ed.) _Context and Consciousness: Activity Theory and Human-Computer Interaction_. (pp. 35-52). MIT Press.
+> Nardi, B. (1992). Studying context: A comparison of activity theory, situated action models and distributed cognition. In B. Nardi (Ed.) Context and Consciousness: Activity Theory and Human-Computer Interaction. (pp. 35-52). MIT Press.
 
 Topic: compares three approaches to the study of context: activity theory, situated action models, and distributed cognition
 

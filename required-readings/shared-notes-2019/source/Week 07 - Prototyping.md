@@ -1,10 +1,10 @@
-# Week 7: Prototyping
+# Week 7
 
-- [Notes Source](https://github.com/stevenxchung/OMSCS-Notes/tree/master/CS%206750%20-%20HCI/Required%20Reading)
+> Ten questions on each test will be based on these readings. From the perspective of the test, your emphasis in reading these papers should be in getting a sufficient understanding of the material to answer high-level questions about the paper, as well as to be able to find answers quickly for more specific questions.
 
-## What do prototypes prototype?
+## What Do Prototypes Prototype
 
-- Houde, S., & Hill, C. (1997). [What do prototypes prototype?](http://www.itu.dk/people/malmborg/Interaktionsdesign/Kompendie/Houde-Hill-1997.pdf) In M. Helandar, T.K. Landaeur, & P. Prabhu (Eds). _Handbook of Human-Computer Interaction_, _2._ (pp. 367-381). Elsevier Science.
+> Houde, S., & Hill, C. (1997). What do prototypes prototype? In M. Helandar, T.K. Landaeur, & P. Prabhu (Eds). Handbook of Human-Computer Interaction, 2. (pp. 367-381). Elsevier Science.
 
 Topic: to establish a model that describes any prototype in terms of the artifact being designed, rather than the prototype’s incidental attributes.
 
@@ -30,9 +30,9 @@ What is significant is not what media or tools were are used to create them, but
   - **Look and feel** - denotes questions about the concrete sensory experience of using an artifact—what the user looks at, feels, and hears while using it
   - **Implementation** - refers to questions about the techniques and components through which an artifact performs its function
 
-## Prototyping tools and techniques
+## Prototyping Tools And Techniques
 
-- Beaudouin-Lafon, M., & Mackay, W. (2003). [Prototyping tools and techniques](https://www.lri.fr/~mackay/pdffiles/Prototype.chapter.pdf). _Human Computer Interaction-Development Process._ (pp. 101-142).
+> Beaudouin-Lafon, M., & Mackay, W. (2003). Prototyping tools and techniques. Human Computer Interaction-Development Process. (pp. 101-142).
 
 Topic: tools and techniques for using prototypes to design interactive systems. The goal is to illustrate how they can help designers generate and share new ideas, get feedback from users or customers, choose among design alternatives, and articulate reasons for their final choices.
 
