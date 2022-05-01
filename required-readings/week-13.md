@@ -7,6 +7,24 @@
 
 Topic: authors argue that cognition is more of a property of interaction than a property of the human mind and that reductionist approaches to examine human minds are not as informative for information visualization design.
 
+InfoVis: the use of computer-supported, interactive, visual representations of abstract data to amplify cognition
+
+  Important dimensions: representation, interaction (both well studied), and cognition (less studied)
+
+Distributed cognition:
+
+  tools amplify cognition
+
+  fundamental assumption is that cognition is information processing inside the brain
+
+  research is primarily based on a framework that models human information processing as a three-stage 
+  perception-cognition-action process
+
+  Hutchins argues memory isn't amplified instead we use a different set of cognitive skills
+  
+  It's a mistake to isolate a human from the environment while looking for cognitive properties.
+
+
 ## The aware home: A living laboratory for ubiquitous computing research
 
 - [Notes Source](https://github.com/stevenxchung/OMSCS-Notes/tree/master/CS%206750%20-%20HCI/Required%20Reading)
