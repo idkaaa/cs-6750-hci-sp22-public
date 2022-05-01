@@ -4,8 +4,8 @@ Source Repo: [https://github.com/idkaaa/cs-6750-hci-sp22-public/](https://github
 
 Static Github Pages Website: [https://idkaaa.github.io/cs-6750-hci-sp22-public/](https://idkaaa.github.io/cs-6750-hci-sp22-public/)
 
-## [Lectures](./lectures/)
+## [Lectures](lectures/readme.md)
 
-## [Readings](./readings/)
+## [Required Readings](required-readings.md)
 
 ## [Tools](./tools/)
