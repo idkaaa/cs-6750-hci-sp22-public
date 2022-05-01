@@ -4,7 +4,7 @@ Semester: Spring 2022
 
 ---
 
-## [Vanilla Markdown Conversion of Provided Spring 2022 Lecture Notes](original-source-files/readme.md)
+## [Vanilla Markdown Conversion of Provided Spring 2022 Lecture Notes](original-source-files/readme.md#original-source-markdown-files)
 
 ---
 

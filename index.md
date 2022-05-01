@@ -7,5 +7,3 @@
 ## [Lectures](lectures/readme.md)
 
 ## [Required Readings](required-readings/readme.md)
-
-## [Tools](./tools/)
