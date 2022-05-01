@@ -4,19 +4,20 @@
 
 ## Lessons 2.7 through 2.10
 
+Design principles in general give us some great rules of thumb to use when creating our initial prototypes and designs.
+
 - [2.7 - Task Analysis](2/07/2.7.md)
-  - [3.8.6 - Research Methods Meet Design Principles](3/08/3.8.md#386---research-methods-meet-design-principles)
-    - Design principles in general give us some great rules of thumb to use when creating our initial prototypes and designs.
-    - Task analysis allows us to describe those needs,
-      - those tasks in formal ways to equip the interface design process, and cognitive load lets us keep in mind how much users are asked to do at a time.
-    - Direct manipulation gives us a family of techniques that we want to emphasize in coming up with our design alternatives.
-    - Mental models provide us an understanding of how the design alternatives might mesh with the user's understanding of the task.
-    - Distributed cognition gives us a view on interface design that lends itself to design at a larger level of granularity.
+
+  - Task analysis allows us to describe those needs,
+    - those tasks in formal ways to equip the interface design process, and cognitive load lets us keep in mind how much users are asked to do at a time.
   - [2.7.7 - 5 Tips: Developing GOMS Models](2/07/2.7.md#277---5-tips-developing-goms-models)
   - [2.7.5 - Strengths and Weaknesses of GOMS](2/07/2.7.md#275---strengths-and-weaknesses-of-goms)
   - [2.7.8 - GOMS to Cognitive Task Analysis](2/07/2.7.md#278---goms-to-cognitive-task-analysis)
   - [2.7.13 - Cognitive Task Analysis Strengths and Weaknesses](2/07/2.7.md#2713---cognitive-task-analysis-strengths-and-weaknesses)
+
+- Mental models provide us an understanding of how the design alternatives might mesh with the user's understanding of the task.
 - [2.8 - Distributed Cognition](2/08/2.8.md)
+  - Distributed cognition gives us a view on interface design that lends itself to design at a larger level of granularity.
   - Week 8 Readings
   - models or theories, of the context surrounding ACI
     - [2.8.2 - Distributed Cognition](2/08/2.8.md#282---distributed-cognition)
@@ -24,8 +25,19 @@
       - [2.8.7 - Distributed Cognition as a Lens](2/08/2.8.md#287---distributed-cognition-as-a-lens)
   - Other Theories
     - [2.8.10 - Social Cognition](2/08/2.8.md#2810---social-cognition)
+      - how social connections create systems that can, together, accomplish tasks
     - [2.8.12 - Situated Action](2/08/2.8.md#2812---situated-action)
+      - humans as improvisers
+      - like distributed cognition, but
+        - not interested in the long-term and enduring permanent interactions
+      - Memory: recognition is easier than recall
     - [2.8.15 - Activity Theory](2/08/2.8.md#2815---activity-theory)
+      - interaction between various pieces of an activity
+      - very complex, predates HCI (HCI comes from it)
+      - Three main contributions of Activity Theory
+        1. Zooms out to activity (general) instead of task (specific). More abstract.
+        1. Zooms out from low level operators to general user needs
+        1. user actions can go higher or lower level on the hierarchy
 - [2.9 Interfaces and Politics](2/09/2.9.md)
   - [2.9.9 - Value-Sensitive Design](2/09/2.9.md#299---value-sensitive-design)
     - Stakeholders (direct/indirect)
