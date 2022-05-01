@@ -1,5 +1,7 @@
 # Test 2 Notes: Required Readings
 
+> Much of the notes are thanks to [this forum post](https://edstem.org/us/courses/16797/discussion/1426283?answer=3226346) linking [this github repo](https://github.com/stevenxchung/OMSCS-Notes/blob/master/CS%206750%20-%20HCI/Required%20Reading/Week%2013%20-%20Best%20of%20Georgia%20Tech%20HCI.md)
+
 - [Week 7: Prototyping](week-07.md)
   - Houde, S., & Hill, C. (1997). [What do prototypes prototype?](http://www.itu.dk/people/malmborg/Interaktionsdesign/Kompendie/Houde-Hill-1997.pdf) In M. Helandar, T.K. Landaeur, & P. Prabhu (Eds). _Handbook of Human-Computer Interaction_, _2._ (pp. 367-381). Elsevier Science.
     - [notes](week-07.md#what-do-prototypes-prototype)
