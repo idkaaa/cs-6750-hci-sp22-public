@@ -54,16 +54,50 @@
 
 ## “Can I Not Be Suicidal on a Sunday?”: Understanding Technology-Mediated Pathways to Mental Health Support.
 
-- [https://gatech.instructure.com/files/28449307/download?download_frd=1](https://gatech.instructure.com/files/28449307/download?download_frd=1)
 - Pendse, S. R., Sharma, A., Vashistha, A., De Choudhury, M., & Kumar, N. (2021, May). [“Can I Not Be Suicidal on a Sunday?”: Understanding Technology-Mediated Pathways to Mental Health Support.](https://dl.acm.org/doi/abs/10.1145/3411764.3445410) In _Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems_.
+
+- Empirical study
+- Phone hotlines in India
+  - barriers for care
+    - societal norms
+      - marginalization
+      - stigma
+      - depression
+    - personal identity
+    - laws
+    - institution aversion
+- Pathways to Care model
+  - Goldberg and Huxley
+  - maps process for assigning mental illness to people
+  - power differential problems
 
 ## “Why lose control?” A Study of Freelancers’ Experiences with Gig Economy Platforms.
 
 - Carlos Alvarez de la Vega, J., E. Cecchinato, M., & Rooksby, J. (2021, May). [“Why lose control?” A Study of Freelancers’ Experiences with Gig Economy Platforms.](https://dl.acm.org/doi/abs/10.1145/3411764.3445305) In _Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems_.
 
+- Empirical study
+- Qualitative Analysis of four Reddit subreddits
+  - Showed tensions between
+    - wanting autonomy and control
+    - necessity of opportunities and convenience
+
 ## Understanding data accessibility for people with intellectual and developmental disabilities.
 
 - Wu, K., Petersen, E., Ahmad, T., Burlinson, D., Tanis, S., & Szafir, D. A. (2021, May). [Understanding data accessibility for people with intellectual and developmental disabilities.](https://dl.acm.org/doi/abs/10.1145/3411764.3445743) In _Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems_ (pp. 1-16).
+
+- Analysis
+  - ![](assets/20220501052848.png)
+  - measured performance for different visualization designs
+    - four tasks
+  - interviews
+  - independent vars
+    - chart type
+    - chart embellishment
+    - data continuity
+    - ability level
+  - dependent vars
+    - task completion accuracy
+    - response time
 
 ## Heuristic Evaluation of Conversational Agents.
 
