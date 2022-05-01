@@ -23,7 +23,7 @@ email: chris.hiles@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Public webpage for sharing information about Dr. Joyner's CS6750 - Human Computer Interaction course in Spring 2022.
 baseurl: "/cs-6750-hci-sp22-public" # the subpath of your site, e.g. /blog
-url: "https://idkaaa.github.io/cs-6750-hci-sp22-public/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://idkaaa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  idkaaa
 
 # Build settings
