@@ -56,3 +56,20 @@ Topic: HCI (via Actor-Network Theory or ANT) to support parenting initiatives, p
 - Joyner, D. (2019). [The CHI of Teaching Online: Blurring the Lines Between User Interfaces and Learner Interfaces](https://gatech.instructure.com/courses/234504/files/folder/Required%20Readings). In E. Kapros & M. Koutsombogera (Eds.) _Designing for the User Experience in Learning Systems_, Human-Computer Interaction Series. Springer.
 
 Topic: the intersection of interface design and learning design.
+
+- learning technology is affected by UI design
+- UI is now
+  - at center of student and teacher experience
+    - instead of complementary
+- classroom **is** a UI
+- Synch vs async learning envs.
+- Specify student (user) activities/actions when appropriate
+- Similar: valued in UI design and learning design
+  - rapid feedback
+- Different:
+
+  - learning could suffer if UI design is prioritized
+
+- Two design paradigms support
+  - immediate interaction
+  - long-term learning gains
