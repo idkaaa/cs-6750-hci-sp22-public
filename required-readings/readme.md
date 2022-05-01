@@ -1,4 +1,4 @@
-# Required Readings CS6750 Spring 22
+# Required Readings for CS6750 Spring 2022
 
 [source](https://omscs6750.gatech.edu/spring-2022/required-reading-list/)
 
