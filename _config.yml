@@ -27,7 +27,7 @@ url: "https://idkaaa.github.io/cs-6750-hci-sp22-public/" # the base hostname & p
 github_username:  idkaaa
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
