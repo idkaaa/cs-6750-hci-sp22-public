@@ -1,3 +1,9 @@
+---
+layout: default
+title: Test 1 Required Readings for CS6750 Spring 2022 - Home
+breadcrumb: Test 1 Required Readings for CS6750 Spring 2022
+---
+
 # Test 1
 
 ## Week 1: Foundations of HCI

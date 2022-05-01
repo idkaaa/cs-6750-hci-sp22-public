@@ -1,3 +1,9 @@
+---
+layout: default
+title: Test 2 Required Readings for CS6750 Spring 2022 - Home
+breadcrumb: Test 2 Required Readings for CS6750 Spring 2022
+---
+
 # Test 2
 
 ## Week 7: Prototyping
