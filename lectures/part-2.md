@@ -1,6 +1,9 @@
 # Lessons for Part 2 of CS6750
 
-- [Required Readings](https://omscs6750.gatech.edu/spring-2022/required-reading-list/)
+- [Source](https://omscs6750.gatech.edu/spring-2022/test-2/)
+
+## Lessons 2.7 through 2.10
+
 - [2.7 - Task Analysis](2/07/2.7.md)
   - [2.7.7 - 5 Tips: Developing GOMS Models](2/07/2.7.md#277---5-tips-developing-goms-models)
   - [2.7.5 - Strengths and Weaknesses of GOMS](2/07/2.7.md#275---strengths-and-weaknesses-of-goms)
@@ -16,13 +19,19 @@
     - [2.8.10 - Social Cognition](2/08/2.8.md#2810---social-cognition)
     - [2.8.12 - Situated Action](2/08/2.8.md#2812---situated-action)
     - [2.8.15 - Activity Theory](2/08/2.8.md#2815---activity-theory)
+- [2.9 Interfaces and Politics](2/09/2.9.md)
+- [2.10 Conclusion to Principles](2/10/2.10.md)
+
+## Lessons 3.5 through 3.8
+
+- [3.5 - 3.5 Prototyping](3/05/3.5.md)
 - [3.6 - Evaluation](3/06/3.6.md)
   - [3.6.2 - Three Types of Evaluation](3/06/3.6.md#362---three-types-of-evaluation)
     1. [3.6.7 - Qualitative Evaluation](3/06/3.6.md#367---qualitative-evaluation)
     1. [3.6.11 - Empirical Evaluation](3/06/3.6.md#3611---empirical-evaluation)
        - [3.6.13 - Hypothesis Testing](3/06/3.6.md#3613---hypothesis-testing)
-    1. [TODO]
-- [2.9 - Interfaces and Politics](2/09/2.9.md)
-- [2.10 - Conclusion to Principles](2/10/2.10.md)
+    1. [3.6.18 - Predictive Evaluation](3/06/3.6.md#3618---predictive-evaluation)
+       - [3.6.20 - Cognitive Walkthroughs](3/06/3.6.md#3620---cognitive-walkthroughs)
+  - [3.6.22 - Exercise: Evaluation Pros and Cons Solution](3/06/3.6.md#3622---exercise-evaluation-pros-and-cons-question)
 - [3.7 - HCI and Agile Development](3/07/3.7.md)
 - [3.8 - Conclusion to Methods](3/08/3.8.md)
