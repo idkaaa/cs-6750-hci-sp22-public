@@ -1,8 +1,3 @@
----
-layout: default
-title: Required Readings for Test 2
----
-
 # Test 2
 
 ## Week 7: Prototyping

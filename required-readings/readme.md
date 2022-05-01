@@ -48,6 +48,6 @@ Paper](http://omscs6460.gatech.edu/research-guide/how-to-read-an-academic-paper/
 from CS6460 to better understand how to fit some of these readings into
 our estimated 1-2 hours per week.
 
-## [Required Readings - Test 1](required-readings-test-1-cs6750-sp22.md)
+## [Test 1 Notes: Required Readings](test-1.md)
 
-## [Required Readings - Test 2](required-readings-test-2-cs6750-sp22.md)
+## [Test 2 Notes: Required Readings](test-2.md)

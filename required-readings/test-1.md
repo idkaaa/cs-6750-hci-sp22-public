@@ -1,4 +1,4 @@
-# Test 1
+Required Readings Test 1
 
 1. ## Week 1: Foundations of HCI
 

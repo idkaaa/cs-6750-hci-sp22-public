@@ -1,4 +1,4 @@
-# Test 2
+# Test 2 Notes: Required Readings
 
 - [Week 7: Prototyping](week-07.md)
   - Houde, S., & Hill, C. (1997). [What do prototypes prototype?](http://www.itu.dk/people/malmborg/Interaktionsdesign/Kompendie/Houde-Hill-1997.pdf) In M. Helandar, T.K. Landaeur, & P. Prabhu (Eds). _Handbook of Human-Computer Interaction_, _2._ (pp. 367-381). Elsevier Science.
